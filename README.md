@@ -17,7 +17,6 @@ Available for full-time positions
 ### 📌 Links
 
 🌐 [Portfolio & CV](https://gtimuri.github.io)  
-💼 [LinkedIn](https://www.linkedin.com/in/timur-gildeev/)  
 📧 gildeev@me.com
 
 ---
