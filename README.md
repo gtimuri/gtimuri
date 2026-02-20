@@ -10,7 +10,7 @@ Available for full-time positions
 
 `Python` `C#` `SQL` `PowerShell` `Bash`  
 `PostgreSQL` `MS SQL Server` `MySQL` `Docker` `Kubernetes`  
-`GitLab CI/CD` `Azure DevOps` `REST/SOAP API` `Unity 3D / XR`  `AWS`
+`GitLab CI/CD` `Azure DevOps` `REST/SOAP API`  `AWS`
 
 ---
 
