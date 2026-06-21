@@ -1,6 +1,6 @@
 # Hi, I'm Timur Gildeev 👋
 
-**Backend Engineer & DevOps Specialist**  
+**Backend Engineer**  
 MSc Computational Modeling and Simulation @ TU Dresden  
 Available for full-time positions
 
