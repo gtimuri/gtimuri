@@ -1,6 +1,6 @@
 # Hi, I'm Timur Gildeev 👋
 
-**Backend Engineer**  
+**C#/.NET-developer**  
 MSc Computational Modeling and Simulation @ TU Dresden  
 Available for full-time positions
 
@@ -8,9 +8,7 @@ Available for full-time positions
 
 ### 🛠 Tech Stack
 
-`Python` `C#` `SQL` `PowerShell` `Bash`  
-`PostgreSQL` `MS SQL Server` `MySQL` `Docker` `Kubernetes`  
-`GitLab CI/CD` `Azure DevOps` `REST/SOAP API`  `AWS`
+`Python` `C#` `SQL` `Unity` `Bash` `Node.js`
 
 ---
 
